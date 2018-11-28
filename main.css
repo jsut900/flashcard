@@ -1,0 +1,35 @@
+.frontCard{
+    background: white;
+    z-index: 1000;
+  }
+  img{
+      padding-left:30%;
+      padding-top: 10%;
+      width: 50%;
+      height: 20%;
+  }
+  
+  h1 {
+    padding-top: 100px;
+    font-family: 'Raleway', sans-serif;
+    z-index: 100;
+    float: left;
+    padding-left: 10%;
+  }
+  
+  p {
+    text-align: left;
+    /* use width to set line length rather than <br> tags */
+    width: 70%;
+    padding-top: 7px;
+    font-family: 'Raleway', sans-serif;
+    z-index: 100;
+    float: left;
+    padding-left: 10%;
+  }
+ 
+  
+  button {
+    float: right;
+    margin-right: 30%;
+  }
